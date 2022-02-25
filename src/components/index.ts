@@ -16,6 +16,7 @@ export * from './Logo';
 export * from './Pagination';
 export * from './DataList';
 export * from './Nav';
+export * from './ResponsiveIconButton';
 export * from './Select';
 export * from './SlideIn';
 export * from './Toast';
